@@ -6,17 +6,17 @@ Database in MongoDB can created through MongoDB Compass(GUI) or MongoSH.
 
 Create database:
 ```bash
-    use [database_name]
+use [database_name]
 ```
 
 Create collection
 ```bash
-    db.[collection_name]
+db.[collection_name]
 ```
 
 Run method
 ```bash
-    db.[collection_name].methodName()
+db.[collection_name].methodName()
 ```
 
 ## About the Project
