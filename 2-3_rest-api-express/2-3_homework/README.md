@@ -1,4 +1,4 @@
-## Homework GIGIH 3.0
+## Homework GIGIH 3.0 Module 2-3
 Simple Playlist Server with implementation N-Layer Software Architecture
 
 ## API Endpoint
