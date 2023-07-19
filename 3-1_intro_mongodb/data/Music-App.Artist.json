@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64b63eb49efe6eb43f931904"
+  },
+  "name": "Daniel Caesar",
+  "birth_date": "1995-04-5",
+  "genre": "R&B"
+},
+{
+  "_id": {
+    "$oid": "64b63eb49efe6eb43f931905"
+  },
+  "name": "Mac Demarco",
+  "birth_date": "1990-04-30",
+  "genre": "Indie"
+},
+{
+  "_id": {
+    "$oid": "64b63eb49efe6eb43f931906"
+  },
+  "name": "Tiara Andini",
+  "birth_date": "2001-09-21",
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b63eb49efe6eb43f931907"
+  },
+  "name": "Raisa",
+  "birth_date": "1990-06-6",
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b63eb49efe6eb43f931908"
+  },
+  "name": "Rizky Febian",
+  "birth_date": "1998-02-25",
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b63eb49efe6eb43f931909"
+  },
+  "name": "Mac Ayres",
+  "birth_date": "1996-12-6",
+  "genre": "R&B"
+},
+{
+  "_id": {
+    "$oid": "64b63eb49efe6eb43f93190a"
+  },
+  "name": "Tom Misch",
+  "birth_date": "1995-06-25",
+  "genre": "R&B"
+},
+{
+  "_id": {
+    "$oid": "64b63eb49efe6eb43f93190b"
+  },
+  "name": "Kunto Aji",
+  "birth_date": "1987-01-4",
+  "genre": "Indie"
+},
+{
+  "_id": {
+    "$oid": "64b63eb49efe6eb43f93190c"
+  },
+  "name": "Jeff Bernat",
+  "birth_date": "1989-12-11",
+  "genre": "R&B"
+},
+{
+  "_id": {
+    "$oid": "64b63eb49efe6eb43f93190d"
+  },
+  "name": "Bruno Major",
+  "birth_date": "1988-07-15",
+  "genre": "R&B"
+}]

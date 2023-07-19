@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64b641af9efe6eb43f93190e"
+  },
+  "title": "Always",
+  "artist": "Daniel Caesar",
+  "album": "Never Enough"
+},
+{
+  "_id": {
+    "$oid": "64b641af9efe6eb43f93190f"
+  },
+  "title": "No Other Heart",
+  "artist": "Mac Demarco",
+  "album": "Another One"
+},
+{
+  "_id": {
+    "$oid": "64b641af9efe6eb43f931910"
+  },
+  "title": "Janji Setia",
+  "artist": "Tiara Andini",
+  "album": "Tiara Andini"
+},
+{
+  "_id": {
+    "$oid": "64b641af9efe6eb43f931911"
+  },
+  "title": "Could It Be",
+  "artist": "Raisa",
+  "album": "Raisa"
+},
+{
+  "_id": {
+    "$oid": "64b641af9efe6eb43f931912"
+  },
+  "title": "Ragu",
+  "artist": "Rizky Febian",
+  "album": "Jejak"
+},
+{
+  "_id": {
+    "$oid": "64b641af9efe6eb43f931913"
+  },
+  "title": "Easy",
+  "artist": "Mac Ayres",
+  "album": "Drive Slow"
+},
+{
+  "_id": {
+    "$oid": "64b641af9efe6eb43f931914"
+  },
+  "title": "Movie",
+  "artist": "Tom Misch",
+  "album": "Geography"
+},
+{
+  "_id": {
+    "$oid": "64b641af9efe6eb43f931915"
+  },
+  "title": "Sulung",
+  "artist": "Kunto Aji",
+  "album": "Mantra Mantra"
+},
+{
+  "_id": {
+    "$oid": "64b641af9efe6eb43f931916"
+  },
+  "title": "Call You Mine",
+  "artist": "Jeff Bernat",
+  "album": "The Gentlemen Approach"
+},
+{
+  "_id": {
+    "$oid": "64b641af9efe6eb43f931917"
+  },
+  "title": "Home",
+  "artist": "Bruno Major",
+  "album": "A Song For Every Moon"
+}]
