@@ -6,17 +6,21 @@ Database in MongoDB can created through MongoDB Compass(GUI) or MongoSH.
 
 Create database:
 ```bash
-use [database_name]
+use Music-App
 ```
 
 Create collection
 ```bash
-db.[collection_name]
+db.Artist
+db.Songs
+db.TopSongs
 ```
 
 Run method
 ```bash
-db.[collection_name].methodName()
+db.Artist.insertMany()
+db.Songs.insertMany()
+db.TopSongs.insertMany()
 ```
 
 ## About the Project
