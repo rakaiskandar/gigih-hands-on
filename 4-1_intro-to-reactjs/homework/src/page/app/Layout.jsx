@@ -4,12 +4,13 @@ import Sidebar from "../../components/Sidebar";
 import Navbar from "../../components/Navbar";
 import auth from "../../hooks/useAuthorize";
 import axios from "axios";
-import { Outlet } from "react-router-dom";
+import { Outlet, useNavigate } from "react-router-dom";
 
 function Layout() {
     const CLIENT_ID = import.meta.env.VITE_REACT_APP_SPOTIFY_CLIENT_ID;
     const REDIRECT_URI = import.meta.env.VITE_REACT_APP_SPOTIFY_REDIRECT_URI;
 
+    const navigate = useNavigate();
     const [token, setToken] = useState("");
     const [playlistUser, setPlaylistUser] = useState([]);
 
@@ -29,6 +30,10 @@ function Layout() {
         }
 
         setToken(token);
+
+        if (!token) {
+            navigate("/");
+        }
 
         const getUserPlayList = async () => {
             try {
